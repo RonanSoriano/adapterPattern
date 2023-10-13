@@ -5,7 +5,9 @@ You are developing an application that helps users manage and control various el
 
   **Adaptee Objects:**
       - Laptop - Represents a laptop device that needs to be plugged into a power source. It has the charge() method.
+      
       - Refrigerator - Represents a refrigerator device that requires a power source. It has the startCooling() method.
+      
       - SmartphoneCharger - Represents a smartphone charger that needs to be plugged in for charging. It has the chargePhone() method.
 
   **Target Object:**
